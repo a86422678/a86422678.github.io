@@ -14,11 +14,11 @@ http://171.8.168.8:8800/rtp/239.16.20.168:11680
 #EXTINF:-1 tvg-name="大美河南" tvg-logo="https://live.fanmingming.com/tv/大美河南.png" group-title="河南",大美河南
 http://171.8.168.8:8800/rtp/239.16.20.17:10170
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="河南",CHC家庭影院
-http://125.47.75.16:4000/rtp/225.1.4.209:1262
+http://125.47.75.16:8888/rtp/225.1.4.209:1262
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="河南",CHC动作电影
-http://125.47.75.16:4000/rtp/225.1.4.208:1261
+http://125.47.75.16:8888/rtp/225.1.4.208:1261
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="河南",CHC高清电影
-http://125.47.75.16:4000/rtp/225.1.4.207:1260
+http://125.47.75.16:8888/rtp/225.1.4.207:1260
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="河南",CCTV-1
 http://171.8.168.8:8800/rtp/239.16.20.1:10010
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="河南",CCTV-2
